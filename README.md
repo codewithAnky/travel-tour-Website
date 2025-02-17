@@ -48,7 +48,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/travel-tour-website.git
+git clone https://github.com/codewithAnky/travel-tour-website.git
 Navigate to the project directory:
 
 bash
